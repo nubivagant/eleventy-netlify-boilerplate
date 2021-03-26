@@ -10,7 +10,7 @@ eleventyNavigation:
 
 <section class="intro" id="intro">
 <h1 class="main-title">A debate club to explore our practice</h1>
-<p>Once a month, the club will open for debate – providing a space to bring positive critique to elements of our craft. If you’d like to get on the list, sign up here and join us!</p>
+<p>Once a month, the club will open for debate – providing a space to bring positive critique to elements of our craft. If you’d like to get on the list, sign up here and join us – no obligation to debate!</p>
 <form name="soapbox" method="POST" data-netlify="true">
   <label for="name">Name</label>
   <input type="text" name="name" id="name" autocomplete="name" placeholder="Your name" title="Please enter your name" required>
