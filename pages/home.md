@@ -15,7 +15,7 @@ eleventyNavigation:
   <label for="name">Name</label>
   <input type="text" name="name" id="name" autocomplete="name" placeholder="Your name" title="Please enter your name" required>
   <label for="topic">Topic</label>
-  <input type="text" name="topic" id="topic" autocomplete="topic" placeholder="Anything you'd like to discuss?" title="Please add a topic you might be interested in debating">
+  <input type="text" name="topic" id="topic" placeholder="Anything you'd like to discuss?" title="Please add a topic you might be interested in debating" required>
   <button type="submit">Sign me up</button>
 </form>
 </section>
